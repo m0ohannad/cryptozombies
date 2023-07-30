@@ -6,7 +6,7 @@
 
 - [Lesson 1](./Lesson%201/) ✅: Making the Zombie Factory
 
-- [Lesson 2](./Lesson%202/) 🟩: Zombies Attack Their Victims
+- [Lesson 2](./Lesson%202/) ✅: Zombies Attack Their Victims
 
 - [Lesson 3](./Lesson%203/) 🟩: Advanced Solidity Concepts
 
