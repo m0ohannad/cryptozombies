@@ -1,13 +1,6 @@
 # CryptoZombies Courses 🧟‍♂️
 
-<a href="https://cryptozombies.io/en/solidity" style="color: inherit;">
-  <div style="position: relative; margin: -50px auto;">
-    <img src="https://cryptozombies.io/course/1f0a6418177020aeb1e1.png" alt="Lesson 1 background">
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-100%, -50%); ">
-      <h3 style="padding-bottom: 50px;">Solidity: Beginner to Intermediate Smart Contracts</h3>
-    </div>
-  </div>
-</a>
+### [Solidity: Beginner to Intermediate Smart Contracts](https://cryptozombies.io/en/solidity)
 
 **My completed lessons ✔️:**
 
@@ -22,3 +15,6 @@
 - [Lesson 5](./Lesson%205/) 🟩: ERC721 & Crypto-Collectibles
 
 - [Lesson 6](./Lesson%206/) 🟩:App Front-ends & Web3.js
+
+## 
+
