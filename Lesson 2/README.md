@@ -1,6 +1,6 @@
 # Zombies Attack Their Victims
 
-**Completed Lesson 1 of CryptoZombies! ✅**
+**Completed Lesson 2 of CryptoZombies! ✅**
 
 - My zombie [here 🧟‍♂️](https://share.cryptozombies.io/en/lesson/2/share/m0ohannad?id=Y3p8NTkwNTg2).
 
