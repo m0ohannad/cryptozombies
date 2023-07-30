@@ -1,4 +1,4 @@
-# Lesson 1 complete
+# Making the Zombie Factory
 
 **Completed Lesson 1 of CryptoZombies! ✅**
 
